@@ -103,3 +103,12 @@
 .bg-neutral-50 {
     text-align: right;
 }
+
+.border-t {
+    border-top-width: 2px;
+}
+
+.border-neutral-200 {
+    --tw-border-opacity: 1;
+    border-color: rgb(143 193 227);
+}
